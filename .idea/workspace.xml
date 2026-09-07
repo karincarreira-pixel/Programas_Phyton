@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f8e3d94-2986-4ac4-b2a7-456977afc6af" name="Changes" comment="" />
+    <list default="true" id="7ea8028f-c006-43ca-a2fc-291094129032" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,24 +18,23 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="3IyOUFOwEAUKFNkGclDF6URhTJH" />
+  <component name="ProjectId" id="3IyDxk1EGg9fb8HLJ1QkCDMKLwn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.Dados_de_um_aluno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Situacao_de_uma_lampada.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PyCharm/Dados_de_um_aluno&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Dados_de_um_aluno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Dados_de_um_aluno" />
+    <configuration name="Situacao_de_uma_lampada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Situacao_de_uma_lampada" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +46,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dados_de_um_aluno.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Situacao_de_uma_lampada.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Dados_de_um_aluno" />
+        <item itemvalue="Python.Situacao_de_uma_lampada" />
       </list>
     </recent_temporary>
   </component>
@@ -72,11 +71,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1f8e3d94-2986-4ac4-b2a7-456977afc6af" name="Changes" comment="" />
-      <created>1788733355827</created>
+      <changelist id="7ea8028f-c006-43ca-a2fc-291094129032" name="Changes" comment="" />
+      <created>1788728162537</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1788733355827</updated>
+      <updated>1788728162537</updated>
     </task>
     <servers />
   </component>
